@@ -31,9 +31,9 @@ cd portfolio
 npm install
 npm run dev
 ```
-Hero Section<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a2e2620-86c6-4366-ac75-3c5d12894dff" />
+Hero Section <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0df75d5a-91b8-4713-b222-8f7a9366f396" />
 
-Projects Section <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e18ddf33-4c55-4001-90dd-15d96efce875" />
+Projects Section <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/694a0c85-78fb-49ac-afb4-d24c1d6e344f" />
 
 Contact Section <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b74f0826-d4b3-4ba1-94c3-c5839ed4899d" />
 
