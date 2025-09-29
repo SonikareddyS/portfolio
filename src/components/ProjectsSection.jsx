@@ -4,7 +4,8 @@ const projects = [
   {
     id: 1,
     title: "Personal Portfolio",
-    description: "",
+    description:
+      "This is a modern and responsive personal portfolio website built to showcase my skills, projects, and professional profile. It provides an interactive and visually appealing platform for potential employers, collaborators, and clients to learn about my work.",
     image: "/projects/project1.png",
     tags: ["React", "TailwindCSS", "Vite", "Html"],
     demoUrl: "#",
