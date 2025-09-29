@@ -1,6 +1,6 @@
 # Portfolio Website
 
-A modern developer portfolio website built with **React**, **TailwindCSS**, and **Vite**, featuring dark mode, smooth animations, and project showcases. Perfect for showcasing skills, projects, and contact information.
+This is a modern and responsive personal portfolio website built to showcase my skills, projects, and professional profile. It provides an interactive and visually appealing platform for potential employers, collaborators, and clients to learn about my work.
 
 ## Tech Stack
 
