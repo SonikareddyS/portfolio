@@ -35,6 +35,10 @@ Hero Section <img width="1920" height="1080" alt="image" src="https://github.com
 
 Projects Section <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/694a0c85-78fb-49ac-afb4-d24c1d6e344f" />
 
+
+certificate section <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cc733663-58ef-4d7c-abe4-1088236aeefb" />
+
+
 Contact Section <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b74f0826-d4b3-4ba1-94c3-c5839ed4899d" />
 
 🎉 Happy Coding!
